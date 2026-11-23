@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+FreeFunctions/__init__.py
+FreeFunctions/functions.py
+datf_packages.egg-info/PKG-INFO
+datf_packages.egg-info/SOURCES.txt
+datf_packages.egg-info/dependency_links.txt
+datf_packages.egg-info/top_level.txt
